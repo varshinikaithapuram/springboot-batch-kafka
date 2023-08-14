@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: varsh
+Build-Jdk: 17.0.6
+Implementation-Title: batch-processing-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javatechie
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/batch-processing-demo
+Created-By: Maven Integration for Eclipse
+
